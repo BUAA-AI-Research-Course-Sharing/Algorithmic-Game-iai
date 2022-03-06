@@ -1,2 +1,2 @@
 # Algorithmic-Game-iai
-A share of homework about Algorithmic Game
+Algorithmic-Game course resources for BUAA IAI
