@@ -1,6 +1,6 @@
 # Algorithmic-Game-iai
 Algorithmic-Game course resources for BUAA IAI
-## some novel courses of Algorithmic-Game in other countries(Recommended):
+## some novel courses of Algorithmic-Game(Recommended):
 
 **Algorithmic Game Theory, Autumn Semester 2021(Eth)**
 
